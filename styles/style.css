@@ -144,7 +144,7 @@ ol {
   font-weight: 700;
   font-size: 18px;
   line-height: 100%;
-  letter-spacing: 0%;
+  letter-spacing: 0;
   text-align: center;
   background: transparent;
   transition: text-decoration 0.3s ease;
@@ -174,7 +174,7 @@ ol {
 }
 
 .search-form__fieldset-title {
-  letter-spacing: 0%;
+  letter-spacing: 0;
 }
 
 .content__accent {
@@ -215,7 +215,7 @@ ol {
   font-weight: 400;
   font-size: 18px;
   line-height: 16.2px;
-  letter-spacing: 0%;
+  letter-spacing: 0;
   text-overflow: ellipsis;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
